@@ -1,0 +1,14 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    background-color: coral;
+  }
+  .center_list{
+    text-align: center;
+  }
+  .center_list > ul {
+    display: inline-block;
+    text-align: left;
+    
+  }
